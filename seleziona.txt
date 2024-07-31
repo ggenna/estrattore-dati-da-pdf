@@ -1,0 +1,4 @@
+NOME
+indirizzo
+telefono
+E-mail
